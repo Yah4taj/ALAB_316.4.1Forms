@@ -1,7 +1,7 @@
 * ALAB316.4.1 FORM VALIDATION
   
 
-** HTML, JAVASCRIPT
+** HTML, JAVASCRIPT, CSS
 
 ***Implementing a variety of validation requirements using a 
 combination of built-in HTML validation and 
